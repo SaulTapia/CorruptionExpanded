@@ -1,0 +1,45 @@
+Items: {
+	BallBuster: {
+		DisplayName: Ball Buster
+		Tooltip: Mods, bust their balls
+	}
+
+	CorruptThorn: {
+		DisplayName: Corrupt Thorn
+		Tooltip: It stings!
+	}
+
+	VileSnap: {
+		DisplayName: Vile Snap
+		Tooltip: Enemies hit start to rot
+	}
+
+	VileArrow: {
+		DisplayName: Vile Arrow
+		Tooltip: Inflicts Vile Rot on enemies
+	}
+
+	EldritchLocket: {
+		DisplayName: Eldritch Locket
+		Tooltip:
+			'''
+			+2 Defense
+			+5% Increased Movement Speed
+			Increased Life Regeneration
+			"It's with you in the dark"
+			'''
+	}
+}
+
+Projectiles: {
+	BallBusterProjectile.DisplayName: Ball Buster Projectile
+	VileSnapProjectile.DisplayName: Vile Snap Projectile
+	VileArrowProjectile.DisplayName: Vile Arrow Projectile
+}
+
+Buffs: {
+	VileRot: {
+		DisplayName: Vile Rot
+		Description: You are slowly being corrupted
+	}
+}

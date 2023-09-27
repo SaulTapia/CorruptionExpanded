@@ -1,0 +1,3 @@
+displayName = Corruption Expanded
+author = Mi cara
+version = 0.1
